@@ -2,6 +2,10 @@
 
 ## 과제1. map, concat, ... spread 연산자에 대해 알아보고 실제 동작하는 코드를 작성하시오.
 
+### [미리보기](https://eloquent-pasteur-9f5784.netlify.app/mytest)
+
+### [Github](https://github.com/gimdongwon/ReactCRUD/tree/main/src/components)
+
 1. map
 
 map은 배열의 각 요소에 함수를 적용해서, 그 반환값을 요소로 갖는 `새로운 배열`을 만든다. forEach와 비슷해 보이지만, 새로운 배열을 만든다는 점에서 다르다.
